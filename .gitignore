@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+cs336_data/assets/*.bin
+tests/fixtures/
